@@ -1,0 +1,9 @@
+[gui]
+video_after_processing = true
+
+[video_processer]
+predictor_size = 3
+model_confidence = 0.7
+
+[predictor]
+use_strict_method = false
